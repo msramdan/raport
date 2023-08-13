@@ -1,0 +1,11 @@
+LOGIN RAPORT
+
+ADMIN 
+username : admin
+password : admin123
+
+GURU 
+username : lulukc
+password : guru123
+
+
